@@ -11,7 +11,7 @@
 
 ## Available Scripts
  1. Take Screenshot
-   * This will take a screenshot of the current view and save it to the current working directory
+    * This will take a screenshot of the current view and save it to the current working directory
 
  2. Read Last N lines of the kodi log
-   * Given a integer parameter will read ~/.kodi/temp/kodi.log
+    * Given a integer parameter will read ~/.kodi/temp/kodi.log
